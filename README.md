@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rhimansh
 - 👀 I’m interested in testing and software development
-- 🌱 I’m currently learning projects to work on .
+- 🌱 I’m currently learning coding.
 - 💞️ I’m looking to collaborate .
 - 📫 How to reach me rhimanshu686@gmail.com
 
